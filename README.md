@@ -1,2 +1,3 @@
-# sushi-loja
+# sushi-login
+
 Projeto de loja de sushi com formulário de login.
